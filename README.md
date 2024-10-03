@@ -13,22 +13,22 @@
 - JavaScript
 ***
 # HTML
-HTML(*HyperText Markup Language*) -**это стандартный язык разметки для создания веб-страниц. Он используется для
+*HTML*(*HyperText Markup Language*) -**это стандартный язык разметки для создания веб-страниц. Он используется для
 структурирования контента на веб-странице.**
 
 # CSS
-CSS(*Cascading Style Sheets*) - **это язык стилей, используемый для описания внешнего вида документа, написанного на
+*CSS*(*Cascading Style Sheets*) - **это язык стилей, используемый для описания внешнего вида документа, написанного на
 HTML. С его помощью можно задавать цвета, шрифты, отступы и другие визуальные параметры.**
 
 # JavaScript
-JavaScript - **это язык программирования, который позволяет реализовывать сложное поведение на веб-страницах. Он
+*JavaScript* - **это язык программирования, который позволяет реализовывать сложное поведение на веб-страницах. Он
 используется для создания интерактивных элементов, таких как кнопки, формы и анимации.**
 ***
 
 ## Пример кода
-# HTML
+### HTML
 ```HTML
-<!-- <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
  <meta charset="UTF-8">
@@ -44,12 +44,12 @@ JavaScript - **это язык программирования, который 
  </div>
  <script src="script.js"></script>
 </body>
-</html> -->
+</html> 
 ```
 
-# CSS
+### CSS
 ```CSS
-<--! body {
+ body {
  font-family: Arial, sans-serif;
  background-color: #f0f0f0;
  margin: 0;
@@ -80,18 +80,18 @@ button {
 }
 button:hover {
  background-color: #0056b3;
-} -->
+} 
 ```
 
-# JavaScript
+### JavaScript
 ```JavaScript
-<--! function showMessage() {
+ function showMessage() {
  alert('Привет, мир!');
  console.log('Кнопка нажата');
 }
 document.addEventListener('DOMContentLoaded', function() {
  console.log('Страница загружена');
-});-->
+});
 ```
 ***
 
@@ -101,8 +101,8 @@ document.addEventListener('DOMContentLoaded', function() {
 - [ ] Создать свой первый веб-сайт
 
 ### Ссылки
-[JavaScript](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)  
+[**JavaScript**](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
+[**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[**HTML**](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)  
 
 
