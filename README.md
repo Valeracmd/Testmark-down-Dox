@@ -1,10 +1,6 @@
-Mi aura APOZICIA 
-ESLI BUK PUSTOLET TO Y MENYA AMUNICIA
-eSLI OPERATION WI
+#Введение в веб-разработку
+>“Программирование - это не просто наука, это искусство.” - Неизвестный автор
 
-
-
-y dly buk unikalen 
 
 
 
